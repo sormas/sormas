@@ -1,11 +1,10 @@
   <p align="center">   　　         　　
-　  　　　　  　　   　           ![Github Views](https://views.igorkowalczyk.dev/api/badge/sormas?label=🪦&style=classic&format=short&color=F9BF66)
+　  　　　　  　　   　           ![Github Views](https://views.igorkowalczyk.dev/api/badge/sormas?label=🪦&style=classic&format=short&color=3e3636)
 </p>
     <p align="center">                      
 　<p align="center">
-  <img width="640" height="368" alt="1000512211" src="https://github.com/user-attachments/assets/37ac6859-e41a-4935-a25f-59c38e7fb342" />
-
-  
+  <img width="540" height="368" alt="1000513424" src="https://github.com/user-attachments/assets/e33e7945-27b8-45c6-a860-4a02472da145" />
+ 
 </p>
 
   　<p align="center">
