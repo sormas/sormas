@@ -8,7 +8,7 @@
 </p>
 
   　<p align="center">
-  <a href="https://cutegirl555.atabook.org">Atabook</a>
+  <a href="https://thomas.atabook.org">Atabook</a>
 </p>
 <p align="center">
   <a href="https://ccutegirl555.straw.page">Strawpage</a>
