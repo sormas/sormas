@@ -11,5 +11,7 @@
   　<p align="center">
   <a href="https://thomas.atabook.org">Atabook</a>
 </p>
-<img width="320" height="146" alt="1000582733" src="https://github.com/user-attachments/assets/99c39e94-4965-4243-81e5-35eb4c85bb18" />
 
+<p align="center">
+  <a href="https://sormas.straw.page">Straw page</a>
+</p>
