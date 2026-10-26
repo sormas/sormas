@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-  <a href="https://sormas.straw.page">Straw page</a>
+  <a href="https://ccutegirl555.straw.page">Straw page</a>
 </p>
