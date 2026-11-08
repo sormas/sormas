@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-  <a href="https://bitethe6ullet.carrd.co">cardd</a>
+  <a href="https://bitethe6ullet.carrd.co">carrd</a>
 </p>
